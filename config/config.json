@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": "7595",
-    "database": "swarmandala",
+    "database": "SWARMANDALA2",
     "host": "localhost",
     "port": "5050",
     "dialect": "postgres"
@@ -10,7 +10,7 @@
   "test": {
     "username": "postgres",
     "password": "7595",
-    "database": "swarmandala",
+    "database": "SWARMANDALA2",
     "host": "localhost",
     "port": "5050",
 
@@ -19,7 +19,7 @@
   "production": {
     "username": "postgres",
     "password": "7595",
-    "database": "swarmandala",
+    "database": "SWARMANDALA2",
     "host": "localhost",
     "port": "5050",
     "dialect": "postgres"

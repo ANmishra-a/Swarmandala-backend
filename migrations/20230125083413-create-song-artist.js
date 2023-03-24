@@ -19,15 +19,15 @@ module.exports = {
       artist_id: {
         type: Sequelize.INTEGER,
         references: {
-          model: 'artists',
-          key: 'id'
-      }
+          model: "artists",
+          key: "id",
+        },
       },
-      createdAt: {
+      created_at: {
         allowNull: false,
         type: Sequelize.DATE,
       },
-      updatedAt: {
+      updated_at: {
         allowNull: false,
         type: Sequelize.DATE,
       },
